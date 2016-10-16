@@ -43,11 +43,7 @@ Embora existam imensas partes que precisam de ser melhoradas ou mesmo implementa
 - [x] Music Search
 - [x] Video Search
 
-Some advanced features:
-
-- [x] Add templates support (Structured Messages) ([#7](https://github.com/swapagarwal/JARVIS-on-Messenger/issues/7))
-- [x] Integrate with [Wit.ai](https://wit.ai/swapagarwal/JARVIS-on-Messenger) to parse Natural Language
-- [ ] Retain context between queries
+(estão para além disso previstas algumas funcionalidades adicionais mais avançadas).
 
 <h1 align = "left"> Desenvolvimento: </h1>
 
