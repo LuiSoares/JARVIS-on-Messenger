@@ -1,13 +1,26 @@
 <p align="right">
   <img src="https://github.com/LuiSoares/JARVIS-on-Messenger/blob/master/Esof-Docs/imagens/Logo%20novo%20FEUPbranco.jpg" alt="FEUP logo">
 </p>
-# JARVIS on Messenger <p align = "right">
+# JARVIS on Messenger
+<p align = "right">
 <img src="https://github.com/LuiSoares/JARVIS-on-Messenger/blob/master/Esof-Docs/imagens/J.A.R.V.I.S..jpg">
 </p>
 
 <h1 align = "left"> Breve Descrição: </h1>
-O Jarvis (just a rather very intelligent system) é uma aplicação inspirada na inteligencia artificial do Tony Stark´s(Iron Man),  dai o nome ser igual, e tem como objetivo criar uma forma de comunicação simples e coerente entre o utilizador e o [dispositivo](http://time.com/4291214/facebook-messenger-bots/).
-Esta aplicação foi desenvolvida para o mensager (tecnologia usada por mais de 900 milhões de pessoas) e espera implementar imensas funcionalidades e conta com a colaboração de qualquer pessoa que tenha um conhecimento decente em Pyton e esteja disposta a ajudar.
+
+O [Jarvis]("http://marvel-movies.wikia.com/wiki/J.A.R.V.I.S.") (Just A Rather Very Intelligent System) é uma aplicação para o facebook inspirada no sistema de computador controlado pela voz do Tony Stark´s, que se encarrega das mais variadas tarefas, dai a similaridade do nome.
+Embora esta aplicação tenha várias funcionalidades a implementar, o seu objetivo final seria criar uma forma de comunicação simples e coerente entre o utilizador e o dispositivo, em que a programação da aplicação seria quase inata.
+
+<h1 align = "left">Protótipo:</h1>
+
+<p align="right">
+  <img src="https://github.com/LuiSoares/JARVIS-on-Messenger/blob/master/Esof-Docs/imagens/f9wfb5waunvt9njxzv1o.jpg" alt="Demo">
+</p>
+
+<h1 align = "left"> Funcionalidades: </h1>
+
+A aplicação ainda se encontra à espera de aprovação para poder ser publicada, no entanto já é possível [testar](https://www.facebook.com/J.A.R.V.I.S.on.Messenger/posts/551338921704902).
+Embora existam imensas partes que precisam de ser melhoradas ou mesmo implementadas já há grandes expectativas relativamente ao futuro do Jarvis, ficam enumeradas alguns dos objetivos:
 
 - [x] Book Rating ([#11](https://github.com/swapagarwal/JARVIS-on-Messenger/pull/11))
 - [x] Movie Rating
@@ -36,16 +49,13 @@ Some advanced features:
 - [x] Integrate with [Wit.ai](https://wit.ai/swapagarwal/JARVIS-on-Messenger) to parse Natural Language
 - [ ] Retain context between queries
 
-Embora a aplicação esteja à espera de aprovação para poder ser publica, jà é possivel [testar](https://www.facebook.com/J.A.R.V.I.S.on.Messenger/posts/551338921704902).
+<h1 align = "left"> Desenvolvimento: </h1>
 
-#Protótipo:
-
-<p align="right">
-  <img src="https://github.com/LuiSoares/JARVIS-on-Messenger/blob/master/Esof-Docs/imagens/68747470733a2f2f692e76696d656f63646e2e636f6d2f766964656f2f3536363630343330395f3634302e6a7067.jpg" alt="Demo">
-</p>
+Participar na equipa de desenvolvimento desta aplicação é bastante simples. Aquando a criação do projeto o autor tinha dois objetivos em mente, criar uma aplicação extremamente funcional e que qualquer pessoa com o mínimo de conhecimento de Pyton podesse deixar a sua marca no projeto "One of the prime goals of this project is to lower the entry barrier in the world of open source."
+O projeto em si não tem um ritmo de desenvolvimento fixo uma vez que depende da disponibilidade de programadores que não têm nenhum vinculo direto com o desenvolvimento da aplicação. 
 
 
 <h2 align = "right"> Mestrado Integrado em Engenharia Informática e Computação </h2>
 <h5 align="right"> 2016/2017</h5>
 <h5 align="right">Turma 5</h5>
-<h3> Luís Octávio Pais Ferreira Dos Santos Soares<h3> [up201406356] (https://github.com/LuiSoares/JARVIS-on-Messenger)
+ Luís Octávio Pais Ferreira Dos Santos Soares [up201406356] (https://github.com/LuiSoare
