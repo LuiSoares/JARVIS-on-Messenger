@@ -58,4 +58,4 @@ O projeto em si não tem um ritmo de desenvolvimento fixo uma vez que depende da
 <h2 align = "right"> Mestrado Integrado em Engenharia Informática e Computação </h2>
 <h5 align="right"> 2016/2017</h5>
 <h5 align="right">Turma 5</h5>
- Luís Octávio Pais Ferreira Dos Santos Soares [up201406356] (https://github.com/LuiSoare
+ Luís Octávio Pais Ferreira Dos Santos Soares [up201406356] (https://github.com/LuiSoares)
